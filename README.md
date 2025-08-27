@@ -8,7 +8,8 @@ An intelligent browser extension that provides instant, AI-powered explanations 
 
 ---
 
-### ![Text Explainer Demo GIF](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME/blob/main/demo.gif?raw=true)
+![demo](https://github.com/user-attachments/assets/1570a662-1071-4937-bb2c-796ab2d90e32)
+
 ## What It Does
 
 In today's information-dense world, we constantly encounter new terms, concepts, and complex sentences. The typical workflow involves highlighting text, copying it, opening a new tab, and pasting it into a search engine or AI. This context-switching is inefficient and breaks concentration.
