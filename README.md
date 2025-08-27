@@ -8,7 +8,8 @@ An intelligent browser extension that provides instant, AI-powered explanations 
 
 ---
 
-![demo](https://github.com/user-attachments/assets/1570a662-1071-4937-bb2c-796ab2d90e32)
+![demo](https://github.com/user-attachments/assets/37b45f5f-987d-46f1-98a9-1fdcc784f356)
+
 
 ## What It Does
 
